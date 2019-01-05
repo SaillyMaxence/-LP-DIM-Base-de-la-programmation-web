@@ -12,18 +12,11 @@
     </div>
   </label>
   <label>
-    <p class="label-txt">Nom :</p>
-    <input type="text" id="name" class="input">
-    <div class="line-box">
-      <div class="line"></div>
-    </div>
-  </label>
-  <label>
     <p class="label-txt">Mot de passe:</p>
     <input type="text" id="password" class="input">
     <div class="line-box">
       <div class="line"></div>
     </div>
   </label>
-  <button type="submit" id="submitButton">Inscription</button>
+  <button id="submitButton">Connexion</button>
 </form>

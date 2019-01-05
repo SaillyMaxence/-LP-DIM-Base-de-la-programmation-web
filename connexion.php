@@ -8,14 +8,16 @@
 	<?php include_once("includes/header_inc.php") ?>
 
 	<!-- Nav Bar -->
-	<?php include_once("includes/navbar_inc.php") ?>
+	<?php include_once("includes/navbar_inc_disconnected.php") ?>
 
+
+	<?php include_once("includes/connexion_inc.php"); ?>
 <!-- Footer -->
 
 	<?php include_once("includes/footer_inc.php"); ?>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
+	<script src="javascript/connexion.js"></script>
 </body>
 </html>

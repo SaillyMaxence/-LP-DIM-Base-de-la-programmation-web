@@ -1,13 +1,12 @@
 
 <br/><br/>
 <!-- Footer -->
-<footer class="page-footer font-small teal pt-4">
+<footer class="mr-0 ml-0  ">
 
   
   <div class="col-md-12">
     <center><h3>Contactez-nous</h3></center>
   </div>
-  <div class="row">
     <ul class="list-unstyled list-inline text-center" >
       <li class="list-inline-item">
         <a href="#">
@@ -25,6 +24,5 @@
         </a>
       </li>
     </ul>
-  </div>
 </footer>
   <!-- Footer -->

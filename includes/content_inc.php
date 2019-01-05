@@ -11,33 +11,33 @@
            
                 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" data-aos="fade-right">
                      <div class="card text-center">
-                        <img class="card-img-top" src="https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%">
+                        <img class="card-img-top" src="images/Mysteryland.jpg" alt="" width="100%">
                         <div class="card-block">
-                            <h4 class="card-title">Post Title</h4>
+                            <h4 class="card-title">Mysteryland 2019</h4>
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
-                            <a class="btn btn-default" href="#">Read More</a>
+                            <a class="btn btn-default" href="#">Réserver</a>
                         </div>
                      </div>
                 </div>
                 
                 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" data-aos="fade-up">
                      <div class="card text-center">
-                        <img class="card-img-top" src="https://images.pexels.com/photos/129105/pexels-photo-129105.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%">
+                        <img class="card-img-top" src="images/ultra_miami.jpg" alt="" width="100%" height=236px">
                         <div class="card-block">
-                            <h4 class="card-title">Post Title</h4>
+                            <h4 class="card-title">Ultra Miami 2019</h4>
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
-                            <a class="btn btn-default" href="#">Read More</a>
+                            <a class="btn btn-default" href="#">Réserver</a>
                         </div>
                      </div>
                 </div>
                 
                  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" data-aos="fade-left">
                      <div class="card text-center">
-                        <img class="card-img-top" src="https://images.pexels.com/photos/129441/pexels-photo-129441.jpeg?h=350&auto=compress&cs=tinysrgb" alt="" width="100%">
+                        <img class="card-img-top" src="images/mainsquare.jpg" alt="" width="100%" height=236px>
                         <div class="card-block">
-                            <h4 class="card-title">Post Title</h4>
+                            <h4 class="card-title">MainSquare festival 2019</h4>
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
-                            <a class="btn btn-default" href="#">Read More</a>
+                            <a class="btn btn-default" href="#">Réserver</a>
                         </div>
                      </div>
                 </div>

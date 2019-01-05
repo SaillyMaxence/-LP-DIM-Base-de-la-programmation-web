@@ -1,0 +1,58 @@
+{
+	"Album": [{
+		"Id":"1",
+		"Nom": "Encore",
+		"Description": "Encore est le premier album du DJ et producteur français DJ Snake",
+		"Couverture": "images/articles/encore.jpg",
+		"Artiste": "DJ Snake",
+		"Sortie": "05 aout 2016",
+		"Prix":"15€"
+	},
+	{
+		"Id":"2",
+		"Nom": "New Blood",
+		"Description": "New Blood est le troisième album studio du duo de musique électronique néerlandais Yellow Claw.",
+		"Couverture": "images/articles/new_blood.jpg",
+		"Artiste": "Yellow Claw",
+		"Sortie": "05 aout 2016",
+		"Prix":"15€"
+	},
+	{
+		"Id":"3",
+		"Nom": "Los Amsterdam",
+		"Description": "Los Amsterdam est le deuxième album studio du groupe Yellow Claw.",
+		"Couverture": "images/articles/los_amsterdam.jpg",
+		"Artiste": "Yellow Claw",
+		"Sortie": "05 aout 2016",
+		"Prix":"15€"
+	},
+	{
+		"Id":"4",
+		"Nom": "7",
+		"Description": "7 est le septième album studio de David Guetta sorti le 14 septembre 2018.",
+		"Couverture": "images/articles/7.jpg",
+		"Artiste": "David Guetta",
+		"Sortie": "14 septembre 2018",
+		"Prix":"15,99€"
+	},
+	{
+		"Id":"5",
+		"Nom": "Album 1",
+		"Description": "album1 est le premier album du dj San Holo sortie le 21 septembre 2018.",
+		"Couverture": "images/articles/album_1.jpg",
+		"Artiste": "San Holo",
+		"Sortie": "21 septembre 2018",
+		"Prix":"12€"	
+	}
+
+
+],
+	"Festivals":[{
+		"Id":"1",
+		"Nom":"",
+		"Description":"",
+		"Couverture":"",
+		"prix":"",
+		"date":""
+	}]
+}
