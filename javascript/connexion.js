@@ -1,5 +1,4 @@
 $(function(){
-	console.log("ici");
 	$("#submitButton").click(function (e){
 		e.preventDefault();
 
@@ -15,7 +14,6 @@ $(function(){
 					console.log(myUser.mail);
 					if(myUser.pass == pass.value){
 						e.preventDefault();
-						console.log("tes good");
 						sessionStorage.setItem('user', myUser.name);
 						document.location.href="index.php";
 					}

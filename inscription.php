@@ -8,7 +8,7 @@
 	<?php include_once("includes/header_inc.php") ?>
 
 	<!-- Nav Bar -->
-	<?php include_once("includes/navbar_inc.php") ?>
+	<?php include_once("includes/navbar_inc_disconnected.php") ?>
 
 
 	<!-- -->

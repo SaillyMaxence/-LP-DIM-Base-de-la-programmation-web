@@ -70,9 +70,11 @@ $(function() {
 			// boutton market 
 
 			button = document.createElement("p");
-			button.setAttribute("style","margin-left:180px; width:150px;")
-			button.classList.add("btn","btn-primary");
-			button.innerHTML = '<i class="fa fa-beer"></i>';
+			button.setAttribute("style","margin-left:180px; width:150px;background-color:#333;color:white;");
+			button.classList.add("btn","btn-dark");
+			button.setAttribute("id","addToCart");
+			button.setAttribute("data-id",json.Album[i].Id);
+			button.innerHTML = '<i class="fa fa-cart-plus"></i>';
 
 			// append pour body.	
 			body.appendChild(img);
@@ -98,6 +100,53 @@ $(function() {
 
 
 		}
+
+		$("body").on( "click","#addToCart", function() {
+			console.log("oui on click");
+
+			if(sessionStorage.getItem('MyBasket')){
+				console.log("panier existant");
+				
+				var x = sessionStorage.getItem("MyBasket");
+				console.log(x);
+
+				var  id =  this.getAttribute("data-id")
+				var add = JSON.stringify({
+					Nom: json.Album[id].Nom,
+					Description: json.Album[id].Description,
+					Prix : json.Album[id].Prix,
+					photo : json.Album[id].Couverture
+
+				});
+
+				var test = [];
+				test = x;
+				
+				finalString = (test+","+add);
+				
+
+				sessionStorage.setItem("MyBasket",finalString);
+			}
+			else{
+				var  id =  this.getAttribute("data-id")
+				var add = JSON.stringify({
+					Nom: json.Album[id].Nom,
+					Description: json.Album[id].Description,
+					Prix : json.Album[id].Prix,
+					photo : json.Album[id].Couverture
+
+				});
+				sessionStorage.setItem("MyBasket",add);
+
+
+		// on ajoute l'item 
+	}
+
+
+
+});
+
+
 
 
 	});

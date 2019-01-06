@@ -14,8 +14,7 @@
                         <img class="card-img-top" src="images/Mysteryland.jpg" alt="" width="100%">
                         <div class="card-block">
                             <h4 class="card-title">Mysteryland 2019</h4>
-                            <p class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
-                            <a class="btn btn-default" href="#">Réserver</a>
+                            <a class="btn btn-default" href="festival.php">Réserver</a>
                         </div>
                      </div>
                 </div>
@@ -25,8 +24,7 @@
                         <img class="card-img-top" src="images/ultra_miami.jpg" alt="" width="100%" height=236px">
                         <div class="card-block">
                             <h4 class="card-title">Ultra Miami 2019</h4>
-                            <p class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
-                            <a class="btn btn-default" href="#">Réserver</a>
+                            <a class="btn btn-default" href="festival.php">Réserver</a>
                         </div>
                      </div>
                 </div>
@@ -36,8 +34,7 @@
                         <img class="card-img-top" src="images/mainsquare.jpg" alt="" width="100%" height=236px>
                         <div class="card-block">
                             <h4 class="card-title">MainSquare festival 2019</h4>
-                            <p class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
-                            <a class="btn btn-default" href="#">Réserver</a>
+                            <a class="btn btn-default" href="festival.php">Réserver</a>
                         </div>
                      </div>
                 </div>

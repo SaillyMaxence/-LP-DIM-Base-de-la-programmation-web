@@ -1,6 +1,6 @@
 {
 	"Album": [{
-		"Id":"1",
+		"Id":"0",
 		"Nom": "Encore",
 		"Description": "Encore est le premier album du DJ et producteur français DJ Snake",
 		"Couverture": "images/articles/encore.jpg",
@@ -9,7 +9,7 @@
 		"Prix":"15€"
 	},
 	{
-		"Id":"2",
+		"Id":"1",
 		"Nom": "New Blood",
 		"Description": "New Blood est le troisième album studio du duo de musique électronique néerlandais Yellow Claw.",
 		"Couverture": "images/articles/new_blood.jpg",
@@ -18,7 +18,7 @@
 		"Prix":"15€"
 	},
 	{
-		"Id":"3",
+		"Id":"2",
 		"Nom": "Los Amsterdam",
 		"Description": "Los Amsterdam est le deuxième album studio du groupe Yellow Claw.",
 		"Couverture": "images/articles/los_amsterdam.jpg",
@@ -27,7 +27,7 @@
 		"Prix":"15€"
 	},
 	{
-		"Id":"4",
+		"Id":"3",
 		"Nom": "7",
 		"Description": "7 est le septième album studio de David Guetta sorti le 14 septembre 2018.",
 		"Couverture": "images/articles/7.jpg",
@@ -36,7 +36,7 @@
 		"Prix":"15,99€"
 	},
 	{
-		"Id":"5",
+		"Id":"4",
 		"Nom": "Album 1",
 		"Description": "album1 est le premier album du dj San Holo sortie le 21 septembre 2018.",
 		"Couverture": "images/articles/album_1.jpg",
@@ -47,12 +47,36 @@
 
 
 ],
-	"Festivals":[{
+	"Festival":[{
+		"Id":"0",
+		"Nom":"Mysteryland",
+		"Description":"Mystery Land est un festival néerlandais de musique électronique diffusant du hardcore, du hardstyle, de la techno, de l'electro, de la house, du hip-hop et de l'urban.",
+		"Couverture":"images/Festivals/mysteryland.png",
+		"Prix":"120€",
+		"Date":"aout 2019"
+	},
+	{
 		"Id":"1",
-		"Nom":"",
-		"Description":"",
-		"Couverture":"",
-		"prix":"",
-		"date":""
+		"Nom":"Tomoorrowland",
+		"Description":"Tomorrowland est un festival de musique électronique organisé au mois de juillet sur le site du domaine provincial De Schorre à Boom, dans la province d'Anvers, en Belgique.",
+		"Couverture":"images/Festivals/tomorrowland.jpg",
+		"Prix":"350€",
+		"Date":"jullet 2019"
+	},
+	{
+		"Id":"2",
+		"Nom":"EMF",
+		"Description":"L'Electrobeach Music Festival, parfois désigné par son acronyme EMF, est un festival français de musiques électroniques ayant lieu au Barcarès dans les Pyrénées-Orientales.",
+		"Couverture":"images/Festivals/emf.jpg",
+		"Prix":"111€",
+		"Date":"juin 2019"
+	},	
+	{
+		"Id":"3",
+		"Nom":"Defquon 1",
+		"Description":"Defqon.1 est un festival de musiques électroniques, principalement axé hardstyle et techno hardcore. anuellement organisé depuis 2003 par Q-dance au Pays-Bas",
+		"Couverture":"images/Festivals/defquon1.jpg",
+		"Prix":"135€",
+		"Date":"mars 2019"
 	}]
 }
